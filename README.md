@@ -1,6 +1,6 @@
 # flutter-2048
 
-A Flutter application（2048-game）.
+A Flutter application（2048-game）. 
 
 ## Getting Started
 
